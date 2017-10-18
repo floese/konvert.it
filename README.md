@@ -1,6 +1,9 @@
-# Victor Hugo
+# konvert.it
 
-**A Hugo boilerplate for creating truly epic websites**
+**a very good konverter**
+
+
+
 
 This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Gulp](https://gulpjs.com/) + [Webpack](https://webpack.js.org/) as your asset pipeline.
 
@@ -13,7 +16,7 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
 ### Prerequisites
 
 You need to have the latest/LTS [node](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/get-npm) versions installed in order to use Victor Hugo.
-
+a
 Next step, clone this repository and run:
 
 ```bash
